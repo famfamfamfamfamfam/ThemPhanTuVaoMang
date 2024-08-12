@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\bin\Debug\net8.0\ThemPhanTuVaoMang.exe
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\bin\Debug\net8.0\ThemPhanTuVaoMang.deps.json
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\bin\Debug\net8.0\ThemPhanTuVaoMang.runtimeconfig.json
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\bin\Debug\net8.0\ThemPhanTuVaoMang.dll
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\bin\Debug\net8.0\ThemPhanTuVaoMang.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\ThemPhanTuVaoMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\ThemPhanTuVaoMang.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\ThemPhanTuVaoMang.AssemblyInfo.cs
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\ThemPhanTuVaoMang.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\ThemPhanTuVaoMang.sourcelink.json
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\ThemPhanTuVaoMang.dll
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\refint\ThemPhanTuVaoMang.dll
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\ThemPhanTuVaoMang.pdb
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\ThemPhanTuVaoMang.genruntimeconfig.cache
+C:\Users\pc\Desktop\Module1\BaiTap\ThemPhanTuVaoMang\obj\Debug\net8.0\ref\ThemPhanTuVaoMang.dll
